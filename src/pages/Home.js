@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 import bestDesktopHome from "../desktop-list-sm.png";
 import movieDesktop from "../desktop-movie-sm.png";
