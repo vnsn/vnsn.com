@@ -20,9 +20,8 @@ function Projects(props) {
     <p>Front End: HTML, CSS, JavaScript, React, Redux + Thunk, Axios</p>
     <p>Back End: Express, MongoDB, Mongoose</p>
     <p>Hosted at Heroku with the database at MLab</p>
-    
 
-<h3><a href="https://movie-game.netlify.com/">Movie Game</a></h3>
+<h3 id="movie"><a href="https://movie-game.netlify.com/">Movie Game</a></h3>
 <h4>View on <a href="https://github.com/vnsn/assignments/tree/master/projects/d30-01-api-project">Github</a>.</h4>
     <img src={movieDesktop} alt="homepage of the project" />
 
