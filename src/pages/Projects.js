@@ -1,7 +1,7 @@
 import React from 'react';
 
 import bestDesktopHome from "../desktop-list-sm.png";
-
+import movieDesktop from "../desktop-movie-sm.png";
 
 function Projects(props) {
   return (
@@ -24,23 +24,17 @@ function Projects(props) {
 
 <h3><a href="https://movie-game.netlify.com/">Movie Game</a></h3>
 <h4>View on <a href="https://github.com/vnsn/assignments/tree/master/projects/d30-01-api-project">Github</a>.</h4>
-    <img src={bestDesktopHome} alt="homepage of the project" />
+    <img src={movieDesktop} alt="homepage of the project" />
 
-Objective
-Game where users are shown a movie title and the names of 4 actors. They have to guess which actor was NOT in the movie.
+{/* https://github.com/vnsn/assignments/blob/master/projects/d30-01-api-project/README.md */}
 
-Technologies Used
-Front End: HTML, CSS, JavaScript, React, Redux + Thunk, Axios
-API used: The Movie Database
-Hosted at Netlify
+    <h4>Objective</h4>
+    <p>Create a game where users are shown a movie title and the names of 4 actors. They have to guess which actor was NOT in the movie.</p> 
 
-
-
-
-
-
-
-      
+    <h4>Technologies Used</h4>
+    <p>Front End: HTML5, CSS3, JavaScript, React, Redux + Thunk, Axios</p>
+    <p>API used: <a href="https://www.themoviedb.org/">The Movie Database</a></p>
+    <p>Hosted at Netlify</p>
       </div>
     </section>
   );
