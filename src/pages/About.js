@@ -8,7 +8,7 @@ function About(props) {
 
         <p>I have a master's degree in business administration with a concentration in marketing, so I speak both "technology" and "business."</p>
 
-        <p>I am nearly finished with the full-stack JavaScript web development bootcamp at <a href="http://vschool.io/">V School</a> in Salt Lake City, Utah, United States, and am also working on <a href="https://cs50.harvard.edu/">Harvard's CS50X</a> course. I'd taken a few programming courses in the past but recently decided to focus full-time on turning my dream of becoming a software engineer into reality.</p>
+        <p>I just finished the full-stack JavaScript web development bootcamp at <a href="http://vschool.io/">V School</a> in Salt Lake City, Utah, United States. I am also working on <a href="https://cs50.harvard.edu/">Harvard's CS50X</a> course. I'd taken a few programming courses in the past but recently decided to focus full-time on turning my dream of becoming a software engineer into reality.</p>
 
         <h3>Long-time nerd</h3>
         <p>I have worked in or around the technology industry for most of my adult life. I've created and managed several personal, professional, and <a href="https://nothingbutdirt.com/">hobby</a> websites, helped friends set up WordPress sites, managed company intranets, and had the title of Webmaster a couple of times. I even used to run an <a href="http://twiki.org/">in-home wiki</a> to keep track of my house projects.</p>
