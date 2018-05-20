@@ -88,7 +88,7 @@ footer a:hover {
 }
 
 img {
-    margin: 1em auto;
+    margin: 1em;
     display: block;
     max-width: 90%;
 }
@@ -133,6 +133,11 @@ main {
     grid-template-rows: max-content;
     grid-gap: 1em;
     justify-items: start;
+}
+
+.home-project-grid > * {
+    padding: 0.5em;
+    border: 1px solid darkslategray;
 }
 
 .home.content li {

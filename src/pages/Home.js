@@ -13,8 +13,7 @@ function Home(props) {
 
         <p>I’m a full-(MERN)-stack web developer, using Node.js, JavaScript, AJAX/Axios, HTML5, CSS3, Express, MongoDB, Mongoose, React, and Redux + Thunk.</p>
 
-        <p>Most recent projects</p>
-        <p>
+        <h2>Most recent projects</h2>
           <div className="home-project-grid">
             <div>
               <h3>Best (Or Worst) Advice I Ever Got</h3>
@@ -52,8 +51,6 @@ function Home(props) {
             </div>
 
           </div>
-        </p>
-
       </div>
     </section>
   );
